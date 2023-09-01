@@ -12,6 +12,7 @@ class CurrencyApp(ctk.CTk):
     def __init__(self):
         super().__init__(fg_color= '#272a2e')
         self.title('Currency Converter')
+        self.iconbitmap('C:/Users/tilak/Documents/Tkinter Apps/currencyapp/MONIES.ico')
         self.geometry('600x400')
         self.resizable(False, False)
         
