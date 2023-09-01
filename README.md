@@ -37,6 +37,10 @@ The converted amount will be displayed below.
 ## Screenshots
 Currency Converter App Screenshot
 
+
+<img width="455" alt="Screenshot 2023-09-01 024805" src="https://github.com/tilakpatell/Tkinter-Apps/assets/108555753/a0c9c5f1-4479-4ad9-8952-c7cc085dd283">
+
+
 ## CustomTkinter
 This project uses CustomTkinter, a Python library that extends the functionality of the tkinter library to create modern and responsive graphical user interfaces. CustomTkinter provides additional features and styling options for tkinter widgets.
 
