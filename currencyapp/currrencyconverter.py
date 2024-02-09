@@ -52,8 +52,7 @@ class CurrencyApp(ctk.CTk):
                                     height= 50, 
                                     width= 250,
                                     border_width= 0,
-                                    command=self.convert_money
-                                    )
+                                    command=self.convert_money)
         self.button.place(x = 25, y = 12.5)
     
     
